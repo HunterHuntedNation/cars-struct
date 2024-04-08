@@ -8,7 +8,8 @@
 struct Car {
     char model[MAX_MODEL_LENGTH];
     int year;
-    float price;
+    float pricee
+    ;
 };
 
 // Function to input details of a car
